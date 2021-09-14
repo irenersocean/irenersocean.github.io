@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C 프로그래밍"
+title                    : "아이린오션의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "오시연 Irene Oh"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "오시연 Irene Oh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **fabulous** person."
+  bio              : "I am..."
   location         : "Korea"
   email            : iren419e@gmail.com
   links:
